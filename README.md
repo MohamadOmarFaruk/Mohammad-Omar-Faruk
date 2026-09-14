@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Omar Faruk</h1>
 <h3 align="center">A passionate software Engineer From Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadomarfaruk&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadomarfaruk" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamadomarfaruk" alt="mohamadomarfaruk" /></a> </p>
 
 - 🌱 I’m currently learning **Programming Hero**
