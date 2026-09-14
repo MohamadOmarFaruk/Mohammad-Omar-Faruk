@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadomarfaruk&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadomarfaruk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamadomarfaruk" alt="mohamadomarfaruk" /></a> </p>
-
 - 🌱 I’m currently learning **Programming Hero**
 
 - 💬 Ask me about **Html,Css,React,js,tailwind,Daisy Ui,Shadcn,TypeScript,Gsap,Framer,Three js,Node,Express,Python,NextJs,Dart,Flutter,Mysql,Sql,MongoDB,Docker**
